@@ -7,5 +7,3 @@ keys/
 /postgres
 
 dist/
-
-mongo/
